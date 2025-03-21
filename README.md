@@ -1,0 +1,2 @@
+# dinedisplay
+equipo: bugs
