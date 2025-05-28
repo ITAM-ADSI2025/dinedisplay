@@ -91,36 +91,25 @@ Las tareas que se realizaron durante el semestre y sin historia de usuario:
 
 | Función                        | Descripción detallada                                                                                       | Estado | Prioridad |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------|--------|-----------|
-| Investigación en cafetería    | Realizar entrevistas y observaciones con el personal del ITAM para entender el flujo operativo y puntos de dolor. | ✅     | Alta      |
-| Detección de problema         | Sintetizar hallazgos clave de la investigación para delimitar el problema a resolver.                          | ✅     | Alta      |
-| Customer Journey              | Mapear la experiencia actual del administrador al gestionar menús en pantallas, identificando fricciones.     | ✅     | Media     |
+| Investigación en cafetería    | Realizar observaciones con el personal del ITAM para entender el flujo operativo y áreas de oportunidad. | ✅     | Alta      |
+| Detección de problema         | Sintetizar hallazgos de la investigación y delimitar el problema.                          | ✅     | Alta      |
+| Customer Journey              | Mapear la experiencia actual del administrador en el control de la cafeteria.     | ✅     | Media     |
 | Creación de Persona           | Diseñar un perfil detallado del usuario principal (Gerente de Cafetería), con objetivos y necesidades.        | ✅     | Alta      |
-| Prototipo en papel            | Bocetaje inicial de pantallas clave para validar el concepto rápidamente sin invertir en diseño detallado.   | ✅     | Alta      |
-| Pruebas con prototipo en papel| Validar con usuarios la lógica básica del flujo y detectar errores de navegación o conceptualización.         | ✅     | Alta      |
-| Mockups (medio nivel)         | Diseño de prototipos de media fidelidad con mayor detalle visual para seguir afinando interacción.            | ✅     | Alta      |
-| Pruebas con Lyssna            | Usar Lyssna para pruebas remotas de usabilidad, recolectando datos como heatmaps, misclicks y feedback.       | ✅     | Alta      |
-| Prototipo en Figma (final)    | Diseño funcional de alta fidelidad con navegación completa y todos los elementos visuales e interactivos.     | ✅     | Alta      |
-
-### Funcionalidad
-
-| Función                 | Descripción detallada                                                                 | Estado | Prioridad |
-|------------------------|----------------------------------------------------------------------------------------|--------|-----------|
-| Ver pantallas desde inicio | Vista inicial con acceso rápido a ambas pantallas digitales con nombres y botones visibles de edición. | ✅     | Alta      |
-| Editar plantilla        | Permite cambiar los productos y estilo visual de cada pantalla (desayuno, lunch, promociones).  | ✅     | Alta      |
-| Agregar producto        | Flujo para crear un producto nuevo con nombre, categoría, precio y descripción.              | ✅     | Alta      |
-| Navegación clara        | Organización intuitiva entre secciones (pantallas, productos, perfil), con iconos e indicadores. | ✅     | Alta      |
-| Icono “librito”         | Botón persistente para acceder rápidamente a la vista de productos desde cualquier sección.      | ✅     | Media     |
-| Editar desde múltiples flujos | Permitir editar productos desde la pantalla o desde el administrador de productos directamente. | ✅     | Alta      |
-| Botón de regreso        | Añadir botón de "Volver" en cada pantalla de edición para mayor claridad y evitar errores.     | ✅     | Alta      |
-| Log-out y perfil        | Acceso al perfil del administrador, con opción de cerrar sesión y editar datos personales.       | ✅     | Media     |
+| Prototipo en papel            | Boceto inicial de pantallas para validar el concepto rápidamente sin invertir en diseño.   | ✅     | Alta      |
+| Pruebas con prototipo en papel| Validar con usuarios la lógica básica del flujo y detectar errores de navegación.         | ✅     | Alta      |
+| Moqups (medio nivel)         | Diseño de prototipos de media fidelidad con mayor detalle visual para seguir afinando la interacción.            | ✅     | Media      |
+| Pruebas con Lyssna            | Usar Lyssna para pruebas remotas de usabilidad, recolectando datos como heatmaps, misclicks y feedback.       | ✅     | Media      |
+| Prototipo en Figma (alto nivel)    | Diseño funcional de alta fidelidad con navegación completa y todos los elementos visuales e interactivos.     | ✅     | Alta      |
+| Pruebas con Lyssna            | Usar Lyssna para más pruebas remotas de usabilidad, recolectando datos como heatmaps, misclicks y feedback.       | ✅     | Alta      |
+| Cambios a prototipo en Figma (final)    | Cambios en diseño basados en las pruebas de usuario.     | ✅     | Alta      |
 
 ### Tareas que podríamos continuar
 
 | Función                 | Descripción detallada                                                                 | Estado | Prioridad |
 |------------------------|----------------------------------------------------------------------------------------|--------|-----------|
-| Documentación técnica  | Documentar arquitectura y componentes clave para facilitar mantenimiento y escalabilidad. | ❌     | Media     |
+| Documentación técnica  | Documentar componentes clave para facilitar mantenimiento y escalabilidad. | ❌     | Media     |
 | Validación con cliente | Revisión final del prototipo con la gerente real de la cafetería antes de implementación. | ❌     | Alta      |
-| Pruebas con más usuarios | Hacer pruebas adicionales con personal de cafetería no involucrado para validar consistencia. | ❌     | Media     |
+| Pruebas con más usuarios | Hacer pruebas adicionales con personal de cafetería  para validar consistencia. | ❌     | Media     |
 
 ---
 
