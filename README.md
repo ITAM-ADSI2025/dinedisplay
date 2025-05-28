@@ -12,7 +12,7 @@ Una aplicación móvil para que la cafetería del ITAM pueda gestionar y actuali
 | 📍 Customer Journey | [Parte 1](https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay_customerJourney_pt1.jpg), [Parte 2](https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay_customerJourney_pt2.jpg) |
 | 🚧 Prototipo Moqups | [Prototipo medio nivel en Moqups](https://app.moqups.com/Q92BbW9H1q2GsYbUSK3SSp5n0u7hViva/view/page/ad64222d5)|
 | 🎨 Prototipo Figma | [Prototipo final en Figma](https://www.figma.com/proto/ATJbBcgw1Xop6atFN2p44q/DineDisplay?node-id=0-1&t=M2oGO1QaShU4wLg0-1 ) |
-| 📋 Backlog en Issues | [Issues en GitHub]([https://github.com/tu-usuario/tu-repo/issues](https://github.com/ITAM-ADSI2025/dinedisplay/issues)|
+| 📋 Backlog en Issues | [Issues en GitHub](https://github.com/tu-usuario/tu-repo/issues](https://github.com/ITAM-ADSI2025/dinedisplay/issues)|
 | 🧪 Pruebas| [Prueba 1](https://app.lyssna.com/tests/jyivvjr4jrea/results/qoagxzc4rygd) , [Prueba 2](https://app.lyssna.com/tests/eclpzlaytklz/results/oxdhoi22wvyd) |
 | 📊 Presentación final | [Presentación](https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay.pdf) |
 
