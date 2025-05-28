@@ -9,7 +9,7 @@ Una aplicación móvil para que la cafetería del ITAM pueda gestionar y actuali
 | Entregable | Descripción |
 |------------|-------------|
 | Persona | [Salvadora de la cafeteria](https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/PersonaDineDisplay.jpg)|
-| Customer Journey | [Parte 1] (https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay_customerJourney_pt1.jpg), [Parte 2] (https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay_customerJourney_pt2.jpg) |
+| Customer Journey | [Parte 1](https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay_customerJourney_pt1.jpg), [Parte 2](https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay_customerJourney_pt2.jpg) |
 | 🎨 Prototipo Figma | [Ver prototipo final en Figma](https://www.figma.com/proto/ATJbBcgw1Xop6atFN2p44q/DineDisplay?node-id=0-1&t=M2oGO1QaShU4wLg0-1 ) |
 | 🚧 Prototipo Moqups | [Ver prototipo medio nivel en Moqups](https://app.moqups.com/Q92BbW9H1q2GsYbUSK3SSp5n0u7hViva/view/page/ad64222d5)|
 | 📋 Backlog en Issues | [Issues en GitHub](https://github.com/tu-usuario/tu-repo/issues) |
