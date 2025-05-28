@@ -34,7 +34,7 @@ Desarrollar una herramienta intuitiva y flexible que permita a la cafetería:
 ## Proceso UX y desarrollo
 
 ### Fase de investigación
-- EVisita de campo y entrevistas a usuarios de la cafeteria.
+- Visita de campo y entrevistas a usuarios de la cafeteria.
 - Definición de la persona principal: *Salvadora de la cafeteria.
 - Customer Journey: Mapeo de frustraciones y necesidades.
 
