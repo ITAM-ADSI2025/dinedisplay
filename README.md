@@ -4,7 +4,7 @@ Una aplicación móvil para que la cafetería del ITAM pueda gestionar y actuali
 
 ---
 
-## 📂 Entregables
+## Entregables
 
 | Entregable | Descripción |
 |------------|-------------|
