@@ -4,6 +4,17 @@ Una aplicación móvil para que la cafetería del ITAM pueda gestionar y actuali
 
 ---
 
+## 📂 Entregables
+
+| Entregable | Descripción |
+|------------|-------------|
+| 🎨 Prototipo Figma | [Ver prototipo final en Figma](https://www.figma.com/proto/ATJbBcgw1Xop6atFN2p44q/DineDisplay?node-id=0-1&t=M2oGO1QaShU4wLg0-1 ) |
+| 📋 Backlog en Issues | [Issues en GitHub](https://github.com/tu-usuario/tu-repo/issues) |
+| 🧪 Pruebas| [Prueba 1](https://app.lyssna.com/tests/jyivvjr4jrea/results/qoagxzc4rygd) , [Prueba 2](https://app.lyssna.com/tests/eclpzlaytklz/results/oxdhoi22wvyd) |
+| 📊 Presentación final | [Ver presentación](https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay.pdf) |
+
+---
+
 ## Problema detectado
 
 La cafetería del ITAM ha enfrentado dificultades para mantener actualizados y organizados sus menús en pantallas digitales. Los productos no están categorizados, el orden visual es poco claro y no existe un sistema flexible que les permita modificar el contenido con agilidad. Esta falta de claridad ha generado confusión entre los clientes, pérdida de oportunidades para promover productos y una experiencia de usuario deficiente, lo que ha contribuido a una disminución en ventas y satisfacción.
@@ -109,17 +120,6 @@ Las tareas que se realizaron durante el semestre y sin historia de usuario:
 | Documentación técnica  | Documentar arquitectura y componentes clave para facilitar mantenimiento y escalabilidad. | ❌     | Media     |
 | Validación con cliente | Revisión final del prototipo con la gerente real de la cafetería antes de implementación. | ❌     | Alta      |
 | Pruebas con más usuarios | Hacer pruebas adicionales con personal de cafetería no involucrado para validar consistencia. | ❌     | Media     |
-
----
-
-## 📂 Entregables
-
-| Entregable | Descripción |
-|------------|-------------|
-| 🎨 Prototipo Figma | [Ver prototipo final en Figma](https://www.figma.com/proto/ATJbBcgw1Xop6atFN2p44q/DineDisplay?node-id=0-1&t=M2oGO1QaShU4wLg0-1 ) |
-| 📋 Backlog en Issues | [Issues en GitHub](https://github.com/tu-usuario/tu-repo/issues) |
-| 🧪 Pruebas| [Prueba 1](https://app.lyssna.com/tests/jyivvjr4jrea/results/qoagxzc4rygd) , [Prueba 2](https://app.lyssna.com/tests/eclpzlaytklz/results/oxdhoi22wvyd) |
-| 📊 Presentación final | [Ver presentación](https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay.pdf) |
 
 ---
 
