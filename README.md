@@ -55,7 +55,6 @@ Desarrollar una herramienta intuitiva y flexible que permita a la cafetería:
 ### Cambios implementados tras pruebas
 - Botones visibles para editar pantalla desde inicio.
 - Funcionalidad de creación de producto desde más de un flujo.
-- Mejora en etiquetas y jerarquía visual.
 - Icono 📖 ("menu") añadido como acceso directo a productos.
 
 ---
@@ -67,9 +66,50 @@ Las tareas principales del backlog del proyecto fue gestionado directamente desd
 👉 [Ver Issues del proyecto](https://github.com/ITAM-ADSI2025/dinedisplay/issues)  
 
 ### 3 tareas principales:
-- “Como manager, quiero añadir un producto desde la pantalla “Mis Productos”.
-- “Como manager, quiero acceder a la sección «Mis Productos» desde diversos lugares de la aplicación”.
-- “Como manager, quiero cambiar el producto que se muestra en mi segunda pantalla por otro diferente, directamente desde la pantalla de inicio.”.
+### ✅ Funcionalidades prioritarias basadas en usuarios
+
+| Historia de Usuario                                                                                      | Descripción detallada                                                                                      | Estado | Prioridad |
+|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------|-----------|
+| “Como manager, quiero añadir un producto desde la pantalla 'Mis Productos'”                               | Flujo optimizado para crear un producto nuevo directamente desde la vista de productos existentes.          | ✅     | Alta      |
+| “Como manager, quiero acceder a la sección 'Mis Productos' desde diversos lugares de la aplicación”       | Acceso intuitivo desde el ícono del librito, la barra de navegación y desde cada plantilla editable.        | ✅     | Alta      |
+| “Como manager, quiero cambiar el producto que se muestra en mi segunda pantalla por otro diferente”       | Edición directa desde la pantalla principal para actualizar promociones o reemplazar productos fácilmente. | ✅     | Alta      |
+
+##  Backlog de Proyecto (sin historias)
+
+### Investigación y UX
+
+| Función                        | Descripción detallada                                                                                       | Estado | Prioridad |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------|--------|-----------|
+| Investigación en cafetería    | Realizar entrevistas y observaciones con el personal del ITAM para entender el flujo operativo y puntos de dolor. | ✅     | Alta      |
+| Detección de problema         | Sintetizar hallazgos clave de la investigación para delimitar el problema a resolver.                          | ✅     | Alta      |
+| Customer Journey              | Mapear la experiencia actual del administrador al gestionar menús en pantallas, identificando fricciones.     | ✅     | Media     |
+| Creación de Persona           | Diseñar un perfil detallado del usuario principal (Gerente de Cafetería), con objetivos y necesidades.        | ✅     | Alta      |
+| Prototipo en papel            | Bocetaje inicial de pantallas clave para validar el concepto rápidamente sin invertir en diseño detallado.   | ✅     | Alta      |
+| Pruebas con prototipo en papel| Validar con usuarios la lógica básica del flujo y detectar errores de navegación o conceptualización.         | ✅     | Alta      |
+| Mockups (medio nivel)         | Diseño de prototipos de media fidelidad con mayor detalle visual para seguir afinando interacción.            | ✅     | Alta      |
+| Pruebas con Lyssna            | Usar Lyssna para pruebas remotas de usabilidad, recolectando datos como heatmaps, misclicks y feedback.       | ✅     | Alta      |
+| Prototipo en Figma (final)    | Diseño funcional de alta fidelidad con navegación completa y todos los elementos visuales e interactivos.     | ✅     | Alta      |
+
+### ⚙Funcionalidades clave
+
+| Función                 | Descripción detallada                                                                 | Estado | Prioridad |
+|------------------------|----------------------------------------------------------------------------------------|--------|-----------|
+| Ver pantallas desde inicio | Vista inicial con acceso rápido a ambas pantallas digitales con nombres y botones visibles de edición. | ✅     | Alta      |
+| Editar plantilla        | Permite cambiar los productos y estilo visual de cada pantalla (desayuno, lunch, promociones).  | ✅     | Alta      |
+| Agregar producto        | Flujo para crear un producto nuevo con nombre, categoría, precio y descripción.              | ✅     | Alta      |
+| Navegación clara        | Organización intuitiva entre secciones (pantallas, productos, perfil), con iconos e indicadores. | ✅     | Alta      |
+| Icono “librito”         | Botón persistente para acceder rápidamente a la vista de productos desde cualquier sección.      | ✅     | Media     |
+| Editar desde múltiples flujos | Permitir editar productos desde la pantalla o desde el administrador de productos directamente. | ✅     | Alta      |
+| Botón de regreso        | Añadir botón de "Volver" en cada pantalla de edición para mayor claridad y evitar errores.     | ✅     | Alta      |
+| Log-out y perfil        | Acceso al perfil del administrador, con opción de cerrar sesión y editar datos personales.       | ✅     | Media     |
+
+### Tareas que podríamos continuar
+
+| Función                 | Descripción detallada                                                                 | Estado | Prioridad |
+|------------------------|----------------------------------------------------------------------------------------|--------|-----------|
+| Documentación técnica  | Documentar arquitectura y componentes clave para facilitar mantenimiento y escalabilidad. | ❌     | Media     |
+| Validación con cliente | Revisión final del prototipo con la gerente real de la cafetería antes de implementación. | ❌     | Alta      |
+| Pruebas con más usuarios | Hacer pruebas adicionales con personal de cafetería no involucrado para validar consistencia. | ❌     | Media     |
 
 ---
 
