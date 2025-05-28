@@ -59,14 +59,13 @@ Desarrollar una herramienta intuitiva y flexible que permita a la cafetería:
 
 ---
 
-## Backlog y gestión ágil
+## Backlog 
 
 Las tareas principales del backlog del proyecto fue gestionado directamente desde los **Issues de GitHub**, organizando tareas por prioridad.
 
 👉 [Ver Issues del proyecto](https://github.com/ITAM-ADSI2025/dinedisplay/issues)  
 
-### 3 tareas principales:
-### ✅ Funcionalidades prioritarias basadas en usuarios
+### 3 tareas principales basadas en pruebas:
 
 | Historia de Usuario                                                                                      | Descripción detallada                                                                                      | Estado | Prioridad |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------|-----------|
@@ -74,7 +73,7 @@ Las tareas principales del backlog del proyecto fue gestionado directamente desd
 | “Como manager, quiero acceder a la sección 'Mis Productos' desde diversos lugares de la aplicación”       | Acceso intuitivo desde el ícono del librito, la barra de navegación y desde cada plantilla editable.        | ✅     | Alta      |
 | “Como manager, quiero cambiar el producto que se muestra en mi segunda pantalla por otro diferente”       | Edición directa desde la pantalla principal para actualizar promociones o reemplazar productos fácilmente. | ✅     | Alta      |
 
-##  Backlog de Proyecto (sin historias)
+Las tareas que se realizaron durante el semestre y sin historia de usuario:
 
 ### Investigación y UX
 
@@ -90,7 +89,7 @@ Las tareas principales del backlog del proyecto fue gestionado directamente desd
 | Pruebas con Lyssna            | Usar Lyssna para pruebas remotas de usabilidad, recolectando datos como heatmaps, misclicks y feedback.       | ✅     | Alta      |
 | Prototipo en Figma (final)    | Diseño funcional de alta fidelidad con navegación completa y todos los elementos visuales e interactivos.     | ✅     | Alta      |
 
-### ⚙Funcionalidades clave
+### Funcionalidad
 
 | Función                 | Descripción detallada                                                                 | Estado | Prioridad |
 |------------------------|----------------------------------------------------------------------------------------|--------|-----------|
