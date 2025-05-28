@@ -85,7 +85,7 @@ Las tareas principales del backlog del proyecto fue gestionado directamente desd
 | “Como manager, quiero acceder a la sección 'Mis Productos' desde diversos lugares de la aplicación”       | Acceso intuitivo desde el ícono del librito, la barra de navegación y desde cada plantilla editable.        | ✅     | Alta      |
 | “Como manager, quiero cambiar el producto que se muestra en mi segunda pantalla por otro diferente”       | Edición directa desde la pantalla principal para actualizar promociones o reemplazar productos fácilmente. | ✅     | Alta      |
 
-Las tareas que se realizaron durante el semestre y sin historia de usuario:
+Las tareas que se realizaron durante el semestre pero sin historia de usuario:
 
 ### Investigación y UX
 
