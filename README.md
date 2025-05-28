@@ -35,7 +35,7 @@ Desarrollar una herramienta intuitiva y flexible que permita a la cafetería:
 
 ### Fase de investigación
 - Visita de campo y entrevistas a usuarios de la cafeteria.
-- Definición de la persona principal: *Salvadora de la cafeteria.
+- Definición de la persona principal: *Salvadora de la cafeteria*.
 - Customer Journey: Mapeo de frustraciones y necesidades.
 
 ### Prototipos y pruebas
@@ -79,7 +79,7 @@ Las tareas principales del backlog del proyecto fue gestionado directamente desd
 |------------|-------------|
 | 🎨 Prototipo Figma | [Ver prototipo final en Figma](https://www.figma.com/proto/ATJbBcgw1Xop6atFN2p44q/DineDisplay?node-id=0-1&t=M2oGO1QaShU4wLg0-1 ) |
 | 📋 Backlog en Issues | [Issues en GitHub](https://github.com/tu-usuario/tu-repo/issues) |
-| 🧪 Pruebas| Resultados de pruebas en Lyssna [Prueba 1](https://app.lyssna.com/tests/jyivvjr4jrea/results/qoagxzc4rygd) [Prueba 2](https://app.lyssna.com/tests/eclpzlaytklz/results/oxdhoi22wvyd) |
+| 🧪 Pruebas| [Prueba 1](https://app.lyssna.com/tests/jyivvjr4jrea/results/qoagxzc4rygd) , [Prueba 2](https://app.lyssna.com/tests/eclpzlaytklz/results/oxdhoi22wvyd) |
 | 📊 Presentación final | [Ver presentación](https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay.pdf) |
 
 ---
