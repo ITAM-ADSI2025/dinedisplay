@@ -62,14 +62,14 @@ Desarrollar una herramienta intuitiva y flexible que permita a la cafetería:
 
 ## Backlog y gestión ágil
 
-El backlog del proyecto fue gestionado directamente desde los **Issues de GitHub**, organizando tareas por prioridad y tipo.
+Las tareas principales del backlog del proyecto fue gestionado directamente desde los **Issues de GitHub**, organizando tareas por prioridad.
 
 👉 [Ver Issues del proyecto](https://github.com/ITAM-ADSI2025/dinedisplay/issues)  
 
 ### 3 tareas principales:
-- *Feature:* “Como manager, quiero acceder a la sección «Mis Productos» desde diversos lugares de la aplicación”.
-- *UX:* “Mover 'crear producto' a lugar más visible”.
-- *UX:* “Añadir botón de regreso en vista de productos”.
+- “Como manager, quiero añadir un producto desde la pantalla “Mis Productos”.
+- “Como manager, quiero acceder a la sección «Mis Productos» desde diversos lugares de la aplicación”.
+- “Como manager, quiero cambiar el producto que se muestra en mi segunda pantalla por otro diferente, directamente desde la pantalla de inicio.”.
 
 ---
 
@@ -77,10 +77,10 @@ El backlog del proyecto fue gestionado directamente desde los **Issues de GitHub
 
 | Entregable | Descripción |
 |------------|-------------|
-| 🎨 Prototipo Figma | [Ver prototipo final en Figma](https://figma.com/...) |
+| 🎨 Prototipo Figma | [Ver prototipo final en Figma]([https://figma.com/...](https://www.figma.com/proto/ATJbBcgw1Xop6atFN2p44q/DineDisplay?node-id=0-1&t=8IbRWyEwx4tEtNyi-1)) |
 | 📋 Backlog en Issues | [Issues en GitHub](https://github.com/tu-usuario/tu-repo/issues) |
-| 🧪 Pruebas| Capturas y resultados de pruebas en Lyssna |
-| 🗣️ Presentación final | Historia del desarrollo e iteraciones UX (5 min) |
+| 🧪 Pruebas| Resultados de pruebas en Lyssna [Prueba 1](https://app.lyssna.com/tests/jyivvjr4jrea/results/qoagxzc4rygd) [Prueba 2](https://app.lyssna.com/tests/eclpzlaytklz/results/oxdhoi22wvyd) |
+| 📊 Presentación final | [Ver presentación](https://github.com/ITAM-ADSI2025/dinedisplay/blob/main/DineDisplay.pdf) |
 
 ---
 
@@ -109,7 +109,7 @@ El backlog del proyecto fue gestionado directamente desde los **Issues de GitHub
 
 ---
 
-## 🧾 Licencia
+## Licencia
 
 MIT © 2025
 
